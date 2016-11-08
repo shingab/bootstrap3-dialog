@@ -1,6 +1,6 @@
 {
   "name": "bootstrap3-dialog",
-  "version": "1.34.6",
+  "version": "1.34.6.1",
   "description": "Make use of Bootstrap Modal more monkey-friendly.",
   "private": true,
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nakupanda/bootstrap3-dialog.git"
+    "url": "https://github.com/shingab/bootstrap3-dialog.git"
   },
   "keywords": [
     "bootstrap",
@@ -20,7 +20,7 @@
   "author": "nakupanda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nakupanda/bootstrap3-dialog/issues"
+    "url": "https://github.com/shingab/bootstrap3-dialog/issues"
   },
   "homepage": "http://nakupanda.github.io/bootstrap3-dialog",
   "devDependencies": {
