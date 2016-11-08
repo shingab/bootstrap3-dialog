@@ -1,6 +1,6 @@
-LASTEST NOT RELEASED
-------------------------------
-NONE
+3.0.0
+
+Local version without bootstrap dep
 
 V1.34.6
 ------------------------------
