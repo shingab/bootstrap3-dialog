@@ -29,9 +29,5 @@
         "gruntfile.js",
         "package.json",
         "README.md"
-    ],
-    "dependencies": {
-        "bootstrap": ">= 3.1.0",
-        "jquery": ">= 1.9.0"
-    }
+    ]
 }

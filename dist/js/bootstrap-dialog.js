@@ -17,11 +17,11 @@
 
     // CommonJS module is defined
     if (typeof module !== 'undefined' && module.exports) {
-        module.exports = factory(require('jquery'), require('bootstrap'));
+        module.exports = factory(require('jquery'));
     }
     // AMD module is defined
     else if (typeof define === "function" && define.amd) {
-        define("bootstrap-dialog", ["jquery", "bootstrap"], function($) {
+        define("bootstrap-dialog", ["jquery"], function($) {
             return factory($);
         });
     } else {
