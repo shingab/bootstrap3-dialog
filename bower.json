@@ -1,7 +1,6 @@
 {
     "name": "bootstrap3-dialog",
     "description": "Make use of Bootstrap Modal more monkey-friendly. http://nakupanda.github.io/bootstrap3-dialog/",
-    "version": "3.0.0",
     "keywords": [
         "css",
         "js",
